@@ -14,4 +14,5 @@ as28 dbc
 
 http://artifactory.technomous.com.cn:8081/artifactory/webapp/#/artifacts/browse/tree/General/SMPV_AS28/Input/SYS/DBC/SW010/MPD_ADAS_LocalCANFD3.dbc
 
+test
 
